@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/SistemaACTropico/static/css/main.73f3e14f.chunk.css",
-    "main.js": "/SistemaACTropico/static/js/main.8f76a2d1.chunk.js",
-    "main.js.map": "/SistemaACTropico/static/js/main.8f76a2d1.chunk.js.map",
+    "main.js": "/SistemaACTropico/static/js/main.1a7c2bc3.chunk.js",
+    "main.js.map": "/SistemaACTropico/static/js/main.1a7c2bc3.chunk.js.map",
     "runtime-main.js": "/SistemaACTropico/static/js/runtime-main.23717705.js",
     "runtime-main.js.map": "/SistemaACTropico/static/js/runtime-main.23717705.js.map",
-    "static/js/2.b942d816.chunk.js": "/SistemaACTropico/static/js/2.b942d816.chunk.js",
-    "static/js/2.b942d816.chunk.js.map": "/SistemaACTropico/static/js/2.b942d816.chunk.js.map",
+    "static/js/2.b1ad715e.chunk.js": "/SistemaACTropico/static/js/2.b1ad715e.chunk.js",
+    "static/js/2.b1ad715e.chunk.js.map": "/SistemaACTropico/static/js/2.b1ad715e.chunk.js.map",
     "static/js/3.f5b6793d.chunk.js": "/SistemaACTropico/static/js/3.f5b6793d.chunk.js",
     "static/js/3.f5b6793d.chunk.js.map": "/SistemaACTropico/static/js/3.f5b6793d.chunk.js.map",
     "index.html": "/SistemaACTropico/index.html",
     "static/css/main.73f3e14f.chunk.css.map": "/SistemaACTropico/static/css/main.73f3e14f.chunk.css.map",
-    "static/js/2.b942d816.chunk.js.LICENSE.txt": "/SistemaACTropico/static/js/2.b942d816.chunk.js.LICENSE.txt",
+    "static/js/2.b1ad715e.chunk.js.LICENSE.txt": "/SistemaACTropico/static/js/2.b1ad715e.chunk.js.LICENSE.txt",
     "static/media/LogoACT.9678021c.png": "/SistemaACTropico/static/media/LogoACT.9678021c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.23717705.js",
-    "static/js/2.b942d816.chunk.js",
+    "static/js/2.b1ad715e.chunk.js",
     "static/css/main.73f3e14f.chunk.css",
-    "static/js/main.8f76a2d1.chunk.js"
+    "static/js/main.1a7c2bc3.chunk.js"
   ]
 }
