@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/SistemaACTropico/static/css/main.633230f3.chunk.css",
-    "main.js": "/SistemaACTropico/static/js/main.7c36dd41.chunk.js",
-    "main.js.map": "/SistemaACTropico/static/js/main.7c36dd41.chunk.js.map",
+    "main.css": "/SistemaACTropico/static/css/main.42d477f7.chunk.css",
+    "main.js": "/SistemaACTropico/static/js/main.4b714296.chunk.js",
+    "main.js.map": "/SistemaACTropico/static/js/main.4b714296.chunk.js.map",
     "runtime-main.js": "/SistemaACTropico/static/js/runtime-main.2fb934d4.js",
     "runtime-main.js.map": "/SistemaACTropico/static/js/runtime-main.2fb934d4.js.map",
     "static/js/2.9c0d7a6e.chunk.js": "/SistemaACTropico/static/js/2.9c0d7a6e.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.785dd757.chunk.js": "/SistemaACTropico/static/js/3.785dd757.chunk.js",
     "static/js/3.785dd757.chunk.js.map": "/SistemaACTropico/static/js/3.785dd757.chunk.js.map",
     "index.html": "/SistemaACTropico/index.html",
-    "static/css/main.633230f3.chunk.css.map": "/SistemaACTropico/static/css/main.633230f3.chunk.css.map",
+    "static/css/main.42d477f7.chunk.css.map": "/SistemaACTropico/static/css/main.42d477f7.chunk.css.map",
     "static/js/2.9c0d7a6e.chunk.js.LICENSE.txt": "/SistemaACTropico/static/js/2.9c0d7a6e.chunk.js.LICENSE.txt",
     "static/media/LogoACT.9678021c.png": "/SistemaACTropico/static/media/LogoACT.9678021c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2fb934d4.js",
     "static/js/2.9c0d7a6e.chunk.js",
-    "static/css/main.633230f3.chunk.css",
-    "static/js/main.7c36dd41.chunk.js"
+    "static/css/main.42d477f7.chunk.css",
+    "static/js/main.4b714296.chunk.js"
   ]
 }
