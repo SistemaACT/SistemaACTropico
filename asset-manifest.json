@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/SistemaACTropico/static/css/main.42d477f7.chunk.css",
-    "main.js": "/SistemaACTropico/static/js/main.2a410059.chunk.js",
-    "main.js.map": "/SistemaACTropico/static/js/main.2a410059.chunk.js.map",
+    "main.css": "/SistemaACTropico/static/css/main.717b3a90.chunk.css",
+    "main.js": "/SistemaACTropico/static/js/main.34ab3af1.chunk.js",
+    "main.js.map": "/SistemaACTropico/static/js/main.34ab3af1.chunk.js.map",
     "runtime-main.js": "/SistemaACTropico/static/js/runtime-main.2fb934d4.js",
     "runtime-main.js.map": "/SistemaACTropico/static/js/runtime-main.2fb934d4.js.map",
-    "static/js/2.9c0d7a6e.chunk.js": "/SistemaACTropico/static/js/2.9c0d7a6e.chunk.js",
-    "static/js/2.9c0d7a6e.chunk.js.map": "/SistemaACTropico/static/js/2.9c0d7a6e.chunk.js.map",
+    "static/js/2.8061cca7.chunk.js": "/SistemaACTropico/static/js/2.8061cca7.chunk.js",
+    "static/js/2.8061cca7.chunk.js.map": "/SistemaACTropico/static/js/2.8061cca7.chunk.js.map",
     "static/js/3.785dd757.chunk.js": "/SistemaACTropico/static/js/3.785dd757.chunk.js",
     "static/js/3.785dd757.chunk.js.map": "/SistemaACTropico/static/js/3.785dd757.chunk.js.map",
     "index.html": "/SistemaACTropico/index.html",
-    "static/css/main.42d477f7.chunk.css.map": "/SistemaACTropico/static/css/main.42d477f7.chunk.css.map",
-    "static/js/2.9c0d7a6e.chunk.js.LICENSE.txt": "/SistemaACTropico/static/js/2.9c0d7a6e.chunk.js.LICENSE.txt",
+    "static/css/main.717b3a90.chunk.css.map": "/SistemaACTropico/static/css/main.717b3a90.chunk.css.map",
+    "static/js/2.8061cca7.chunk.js.LICENSE.txt": "/SistemaACTropico/static/js/2.8061cca7.chunk.js.LICENSE.txt",
+    "static/media/ACTBanner.e92d2923.png": "/SistemaACTropico/static/media/ACTBanner.e92d2923.png",
+    "static/media/Carusel2.e1956ca6.png": "/SistemaACTropico/static/media/Carusel2.e1956ca6.png",
+    "static/media/Carusel3.9f74a82e.png": "/SistemaACTropico/static/media/Carusel3.9f74a82e.png",
+    "static/media/Carusel4.8116f38d.png": "/SistemaACTropico/static/media/Carusel4.8116f38d.png",
     "static/media/LogoACT.9678021c.png": "/SistemaACTropico/static/media/LogoACT.9678021c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2fb934d4.js",
-    "static/js/2.9c0d7a6e.chunk.js",
-    "static/css/main.42d477f7.chunk.css",
-    "static/js/main.2a410059.chunk.js"
+    "static/js/2.8061cca7.chunk.js",
+    "static/css/main.717b3a90.chunk.css",
+    "static/js/main.34ab3af1.chunk.js"
   ]
 }
