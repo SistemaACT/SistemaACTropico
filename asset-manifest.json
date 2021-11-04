@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SistemaACTropico/static/css/main.717b3a90.chunk.css",
+    "main.css": "/SistemaACTropico/static/css/main.a8c4c7a9.chunk.css",
     "main.js": "/SistemaACTropico/static/js/main.34ab3af1.chunk.js",
     "main.js.map": "/SistemaACTropico/static/js/main.34ab3af1.chunk.js.map",
     "runtime-main.js": "/SistemaACTropico/static/js/runtime-main.2fb934d4.js",
@@ -10,7 +10,7 @@
     "static/js/3.785dd757.chunk.js": "/SistemaACTropico/static/js/3.785dd757.chunk.js",
     "static/js/3.785dd757.chunk.js.map": "/SistemaACTropico/static/js/3.785dd757.chunk.js.map",
     "index.html": "/SistemaACTropico/index.html",
-    "static/css/main.717b3a90.chunk.css.map": "/SistemaACTropico/static/css/main.717b3a90.chunk.css.map",
+    "static/css/main.a8c4c7a9.chunk.css.map": "/SistemaACTropico/static/css/main.a8c4c7a9.chunk.css.map",
     "static/js/2.8061cca7.chunk.js.LICENSE.txt": "/SistemaACTropico/static/js/2.8061cca7.chunk.js.LICENSE.txt",
     "static/media/ACTBanner.e92d2923.png": "/SistemaACTropico/static/media/ACTBanner.e92d2923.png",
     "static/media/Carusel2.e1956ca6.png": "/SistemaACTropico/static/media/Carusel2.e1956ca6.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.2fb934d4.js",
     "static/js/2.8061cca7.chunk.js",
-    "static/css/main.717b3a90.chunk.css",
+    "static/css/main.a8c4c7a9.chunk.css",
     "static/js/main.34ab3af1.chunk.js"
   ]
 }
